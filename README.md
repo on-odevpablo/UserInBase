@@ -1,4 +1,4 @@
-# README - Monitoramento de Inadimplência por Proximidade Geográfica
+ Monitoramento de Inadimplência por Proximidade Geográfica
 
 ## Visão Geral
 Este notebook identifica veículos com serviços de inadimplência abertos que estão fisicamente próximos às filiais (dentro de 500 metros), gerando alertas para os gestores regionais via Microsoft Teams.
